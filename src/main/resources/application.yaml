@@ -14,6 +14,7 @@ spring:
     username: usr
     password: pass
 
+
     properties:
       mail:
         smtp:
